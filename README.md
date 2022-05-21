@@ -25,9 +25,7 @@ Through the 'Sg_points.csv' dataset, we've managed to scrape for our various dat
 - Gas Stations
 - Meal Takeaways
 
-For the running of the app:
-1. 2 files are included, one with the base theme ('Cycleroute_base_interface.R') and the other with a "beautified" interface ('Cycleroute_final_new_interface.R'). Both run on the same server functions. We believe both themes are unique in their own ways. 
-2. Our final version is the latter ('Cycleroute_final_new_interface.R').
+
 
 
 

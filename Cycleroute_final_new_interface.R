@@ -120,8 +120,6 @@ server <- function(input, output, session){
   m <- leaflet() %>%
     addTiles()
   
-  key = 'AIzaSyDND8XIlLvVZfxB05cdYGm7PtgncMLqMrU'
-  
   trigger.map.and.elevation <- reactive({
     
     origin.input <- input$origin
